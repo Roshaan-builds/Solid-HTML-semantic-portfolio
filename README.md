@@ -6,7 +6,7 @@ Welcome to my personal portfolio website. This is a simple, clean portfolio show
 
 ## 🚀 Live Site
 
-Visit my portfolio: [yourusername.github.io](https://yourusername.github.io)
+Visit my portfolio: [yourusername.github.io](https://Roshaan-builds.github.io)
 
 ## 📋 What's Included
 
@@ -42,7 +42,7 @@ This is a starter portfolio template. Feel free to expand it with:
 
 ## 📧 Contact
 
-[Your Email] | [Your GitHub](https://github.com/yourusername) | [Your LinkedIn](https://linkedin.com/in/yourprofile)
+[Your Email] | [Your GitHub](https://github.com/Roshaan-builds) | [Your LinkedIn](https://www.linkedin.com/in/roshaan-amjad-049856436/)
 
 ---
 
